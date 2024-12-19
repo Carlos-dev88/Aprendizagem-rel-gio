@@ -1,0 +1,19 @@
+#hour, #min, #sec{
+    background-color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+main {
+    font-size: 3em;
+    font-weight: bold;
+}
+span {
+    margin: 0 5px;
+}
